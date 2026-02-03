@@ -1,0 +1,147 @@
+1. DASAR WAJIB (fondasi)
+
+    Struktur dokumen
+        <!DOCTYPE html>
+        <html>, <head>, <body>
+
+    Metadata
+        <title>
+        <meta charset>
+        <meta name="viewport">
+        SEO dasar: <meta description>
+
+    Elemen teks
+        Heading: <h1>–<h6>
+        Paragraf: <p>
+        Inline: <span>, <strong>, <em>
+        Break: <br>, <hr>
+
+                ---
+
+2. LINK, MEDIA, & RESOURCE
+
+    Link
+        <a href="">
+        Relative vs absolute URL
+        target="_blank" + rel="noopener"
+
+    Gambar & media
+        <img src alt>
+        <audio>, <video>
+        <source>
+
+                ---
+
+3. LIST & TABEL
+
+    List
+        <ul>, <ol>, <li>
+        Nested list
+
+
+    Tabel
+        <table>, <tr>, <th>, <td>
+        <thead>, <tbody>, <tfoot>
+        colspan, rowspan
+
+                ---
+
+4. FORM (SANGAT PENTING) Ini inti web interaktif.
+
+    Elemen form
+        <form>
+        <input> (text, password, email, number, file, checkbox, radio)
+        <textarea>
+        <select>, <option>
+        <button>
+
+    Atribut penting
+        name
+        value
+        required
+        placeholder
+        readonly, disabled
+        action, method
+
+                ---
+
+5. SEMANTIC HTML (WAJIB MODERN)
+
+    Lanjutan
+        <header>
+        <nav>
+        <main>
+        <section>
+        <article>
+        <aside>
+        <footer>
+
+    Membantu:
+        SEO
+        Accessibility
+        Maintainability
+
+                ---
+
+6. ATRIBUT GLOBAL
+
+Harus paham fungsi dan dampaknya.
+
+        id
+        class
+        style
+        title
+        data-*
+        hidden
+
+                ---
+
+7. ACCESSIBILITY (HTML YANG BENAR)
+
+Sering diabaikan, padahal penting.
+
+        alt pada <img>
+        <label for>
+        aria-* (dasar)
+        Struktur heading logis
+
+                ---
+
+8. EMBED & INTEGRASI
+
+        <iframe>
+        Embed video / map
+        External resource
+
+---
+
+9. HTML + CSS + JS (INTEGRASI)
+
+HTML bukan berdiri sendiri.
+
+        <link rel="stylesheet">
+        <script>
+        defer vs async
+
+                ---
+
+PENTING UNTUK DIINGAT
+
+1. Struktur & text
+2. Link + media
+3. Form
+4. Semantic HTML
+5. Accessibility
+6. Integrasi CSS & JS
+
+                ---
+
+Analogi Sederhana
+
+HTML = rangka bangunan
+
+CSS = cat & desain
+
+JS = mesin & kontrol
+
+                    ---
